@@ -1,0 +1,20 @@
+[{
+  "website": "www.cnbc.com",
+  "section": "Tech",
+  "sub_section": "",
+  "article_url": "https://www.cnbc.com/2024/02/22/nvidia-shares-pop-12percent-in-premarket-trade-after-ai-fueled-bumper-earnings-.html",
+  "title": "Nvidia shares pop 15% after AI-fueled bumper earnings",
+  "author": "Arjun Kharpal",
+  "author_link": "",
+  "published_date": "2024-02-22",
+  "article_summary": "",
+  "text": "Nvidia shares jumped 15% on Thursday morning, a day after the chip giant posted bumper earnings that beat Wall Street estimates.\n\nThe U.S. tech giant reported revenue of $22.10 billion for its fiscal fourth quarter, a rise of 265% year on year, while net income surged by 769%, as the company continues to see a boost from excitement over artificial intelligence.\n\nNvidia chips are used to train the huge AI models such as those developed by Microsoft and Meta.\n\nNvidia sees no signs of slowing. The company forecast its revenue in the current quarter will hit $24 billion, way ahead of estimates.\n\n“Fundamentally, the conditions are excellent for continued growth” in 2025 and beyond, Nvidia CEO Jensen Huang told analysts on Wednesday, adding to the bullish sentiment around the stock.\n\nNvidia’s Data Center business, which includes the company’s H100 graphics cards that are used for AI training, posted sales of $18.4 billion in the fourth quarter, representing 409% year-on-year growth. The positive outlook from Nvidia prompted a round of broker upgrades Thursday. JPMorgan raised its price target on Nvidia’s stock from $650 to $850, while Bank of America Global Research hiked its target from $800 to $925.\n\nNvidia’s stock closed at $674.72 on Thursday. The shares were under pressure ahead of the earnings report as traders took profit and investors were concerned that Nvidia might not be able to hit lofty expectations.\n\nBut its market-beating numbers dispelled those fears and also pulled other global chip stocks higher.",
+  "image_url": "",
+  "crawl_date": "2024-02-22",
+  "user_agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1",
+  "content": "text/html; charset=UTF-8",
+  "language": "",
+  "length": "",
+  "source": "scrapy"
+}
+]
